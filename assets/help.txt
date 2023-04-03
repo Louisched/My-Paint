@@ -1,0 +1,13 @@
+Well hello there! Welcome to our own painting application!
+Here is some tips on how to use it:
+
+You can start drawing by just clicking on the drawing area.
+You can switch to earser tool by clicking on Edit -> Eraser.
+
+You can save your drawing by clicking on File -> Save, and
+then typing the name of your file, folowed by an extension
+(.png, .jpg etc.)
+
+You can also open an existing image. To do that, click on
+File -> Open file, and type the name of the file you want to
+open.
